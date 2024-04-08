@@ -1,0 +1,4 @@
+基于turtlebot2实现小车控制
+
+open_loop_control_square.py 开环控制turtlebot走正方形
+closed_loop.py闭环控制turtlebot走正方形
